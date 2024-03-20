@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-varshney001&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-varshney001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rohit_varshney" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_varshney?logo=twitter&style=for-the-badge" alt="rohit_varshney" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VarshneyRo38448" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_varshney?logo=twitter&style=for-the-badge" alt="rohit_varshney" /></a> </p>
 
 - 🔭 I’m currently working in **Securaa**
 
