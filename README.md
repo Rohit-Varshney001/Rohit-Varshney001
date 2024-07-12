@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-varshney001&show_icons=true&locale=en" alt="rohit-varshney001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-varshney001&" alt="rohit-varshney001" /></p>
+
+![Snake animation](https://github.com/Rohit-Varshney001/Rohit-Varshney001/raw/output/snake.svg)
+
