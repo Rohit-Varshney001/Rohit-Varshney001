@@ -26,8 +26,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-          # Add the following to increase the snake length
-          snake_length: 30   # You can increase this value as desired
 
       - name: Push snake.svg to the output branch        
         uses: crazy-max/ghaction-github-pages@v3.1.0
