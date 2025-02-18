@@ -19,11 +19,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg with custom palette and length
+      - name: Generate snake.svg with default palette and length
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark&length=100
+          outputs: dist/snake.svg?length=100
+
+      - name: Modify snake.svg colors
+        run: |
+          # Update the snake color to green and the blocks to red
+          sed -i 's/#000000/#00FF00/g' dist/snake.svg  # Change snake body to green
+          sed -i 's/#FFFFFF/#FF0000/g' dist/snake.svg  # Change blocks to red
 
       - name: Push snake.svg to the output branch        
         uses: crazy-max/ghaction-github-pages@v3.1.0
