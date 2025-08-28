@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, Java**
 
-- 📫 How to reach me **rohitvarshney87@gmail.com**
+- 📫 How to reach me **rohit.varshney.glau@gmail.com**
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
